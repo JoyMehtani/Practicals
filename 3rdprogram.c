@@ -3,7 +3,6 @@
 #include <string.h>
 #include <ctype.h>
 
-// Definition of Token struct
 typedef struct {
     char type[50];
     char value[256];
